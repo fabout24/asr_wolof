@@ -1,0 +1,4 @@
+transformers
+gradio==3.40.1
+librosa
+torch
